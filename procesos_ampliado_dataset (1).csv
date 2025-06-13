@@ -1,0 +1,15 @@
+nombre,usuario,pid,estado,porcentaje_memoria,porcentaje_cpu,tiempo_creacion,ruta_ejecutable,numero_hilos,memoria_ram_mb,memoria_virtual_mb
+docker-init,root,1,sleeping,6.019824485997286e-05,0.0,2025-06-13 14:23:11,/usr/sbin/docker-init,1,0.01,1.05
+node,root,6,sleeping,0.5219488820583946,0.0,2025-06-13 14:23:11,/tools/node/bin/node,11,67.74,1268.07
+oom_monitor.sh,root,14,sleeping,0.026697921595397966,0.1,2025-06-13 14:23:11,/usr/bin/bash,1,3.46,7.2
+run.sh,root,17,sleeping,0.014206785786953597,0.0,2025-06-13 14:23:11,/usr/bin/bash,1,1.84,7.2
+kernel_manager_proxy,root,19,sleeping,0.10787525478907138,0.0,2025-06-13 14:23:11,/usr/colab/bin/kernel_manager_proxy,5,14.0,1208.76
+tail,root,40,sleeping,0.00785587095422646,0.0,2025-06-13 14:23:11,/usr/bin/tail,1,1.02,5.67
+tail,root,46,sleeping,0.00767527621964654,0.0,2025-06-13 14:23:12,/usr/bin/tail,1,1.0,5.67
+python3,root,68,zombie,0.0,0.0,2025-06-13 14:23:15,,1,0.0,0.0
+colab-fileshim.,root,69,sleeping,0.4455573093310891,0.0,2025-06-13 14:23:15,/usr/bin/python3.11,1,57.82,76.72
+jupyter-noteboo,root,90,sleeping,1.0216545126410295,0.0,2025-06-13 14:23:17,/usr/bin/python3.11,4,132.59,379.91
+dap_multiplexer,root,91,sleeping,0.04987424586648751,0.0,2025-06-13 14:23:17,/usr/local/bin/dap_multiplexer,5,6.47,1201.64
+python3,root,478,running,1.3051581468090716,0.2,2025-06-13 14:24:51,/usr/bin/python3.11,19,169.38,1301.83
+python3,root,510,sleeping,0.14887025953871288,0.0,2025-06-13 14:24:55,/usr/bin/python3.11,7,19.32,531.91
+sleep,root,10057,sleeping,0.0075548797299265944,0.0,2025-06-13 15:04:16,/usr/bin/sleep,1,0.98,5.64
